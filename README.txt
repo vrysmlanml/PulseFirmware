@@ -1,0 +1,1 @@
+This is a direct copy from my SDcard of my 423S. This is Marlin and not smoothieware. 
